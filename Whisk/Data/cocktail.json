@@ -1,0 +1,618 @@
+[
+    {
+        "id": 1,
+        "name": "Ameretto",
+        "type": "classic",
+        "alcoholPercentage": 21,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "Amaretto is an Italian liqueur made from apricot kernels, which give the liquor a distinctly bitter almond flavor. Its name comes from amaro, the Italian word for “bitter.” Sweeter notes of brown sugar temper the bitterness of the apricot pits. Amaretto has a bittersweet, nutty flavor, but each amaretto recipe is a little different. Amaretto may feature notes of burnt sugar and vanilla extract, depending on the brand.",
+        "ingredients": ["Vodka","Apricot Kernels","Sugar"],
+        "imageName": "ameretto",
+        "address": {
+            "barName": "Carmen Bar",
+            "barImage": "carmen-bar",
+            "number": 8,
+            "street": "Ly Tu Trong",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.782533619998583,
+            "longitude": 106.70479479790832
+        }
+    },
+    {
+        "id": 2,
+        "name": "Black Russian",
+        "type": "classic",
+        "alcoholPercentage": 32.5,
+        "rating": 5,
+        "isFavourite": true,
+        "description": "The Black Russian is a simple, two-part cocktail combining vodka and Kahlúa, a coffee liqueur that’s made with rum, sugar and arabica coffee. The drink was created in the late 1940s by bartender Gustave Tops at the Hotel Metropole in Brussels. The Black Russian is a strong and bitter drink. You can adjust the ingredients ratio here to make the drink sweeter by adding more Kahlua.",
+        "ingredients": ["Vodka","Kahlua","Orange Bitter"],
+        "imageName": "black-russian",
+        "address": {
+            "barName": "Thuong Rooftop",
+            "barImage": "thuong-rooftop",
+            "number": 258,
+            "street": "Ton Dan",
+            "district": "4"
+        },
+        "coordinates": {
+            "latitude": 10.757013074620343,
+            "longitude": 106.70612508256559
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bloody Mary",
+        "type": "classic",
+        "alcoholPercentage": 12,
+        "rating": 3,
+        "isFavourite": false,
+        "description": "The Bloody Mary is one of the world’s best-known cocktails, prized for its ability to jumpstart even the groggiest of mornings. The original Bloody Mary is believed to have contained seven ingredients: vodka, tomato juice, Worcestershire sauce, black pepper, celery salt, Tabasco and lemon juice. But like many classic drinks, it has inspired several variations. Popular versions include the Bloody Maria (made with tequila), the Red Snapper (spiked with gin) and the Caesar, a Canadian creation that features Clamato juice. The Bloody Mary carries a mix of spicy, salty, and savory flavours, with forward notes of tomatoes and hot sauce. The bloody mary is typically drunk in the morning or afternoon to help cure hangovers. Despite the endless variations and regardless of how you choose to make it, the Bloody Mary’s staying power is not debatable.",
+        "imageName": "bloody-mary",
+        "ingredients": ["Vodka","Lime","Lemon","Tomato Juice","Tabasco Sauce"],
+        "address": {
+            "barName": "Hoprizon Brewing Bar",
+            "barImage": "hoprizon-brewing-bar",
+            "number": 18,
+            "street": "Vo Thi Sau",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.791267275982456,
+            "longitude": 106.69493472489462
+        }
+    },
+    {
+        "id": 4,
+        "name": "Cosmopolitan",
+        "type": "classic",
+        "alcoholPercentage": 27,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "The classic, punchy Cosmopolitan includes vodka, Triple Sec, cranberry juice and ice and is usually garnished with orange peel. Some recipes also use a dash of fresh lime juice to make it even more refreshing or flavoured vodka for a twist. Cosmos are sweet with a touch of tang from lime. They taste of cranberry juice with orange (from the Cointreau), and though there's a considerably slug of alcohol in it with equal parts alcohol to non alcohol, you can't taste it very much.",
+        "ingredients": ["Vodka","Cointreau","Lime Juice"],
+        "imageName": "cosmopolitan",
+        "address": {
+            "barName": "U Bar",
+            "barImage": "u-bar",
+            "number": 50,
+            "street": "Dang Dung",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.792933610674435,
+            "longitude": 106.68885201179562
+        }
+    },
+    {
+        "id": 5,
+        "name": "Daiquiri",
+        "type": "classic",
+        "alcoholPercentage": 20,
+        "rating": 4,
+        "isFavourite": true,
+        "description": "The Daiquiri is simple and sublime, a delicate blend of rum’s sweetness with the raw freshness of sugar and lime juice. A Daiquiri cocktail tastes like watered-down rum with a dash of lime and sugar syrup. It is best recommended for those who enjoy a strong beverage with a hint of sweetness.",
+        "ingredients": ["Rum","Sugar Syrup","Lime Juice"],
+        "imageName": "daiquiri",
+        "address": {
+            "barName": "Rabbit Hole Bar",
+            "barImage": "rabbit-hole-bar",
+            "number": 138,
+            "street": "Nam Ky Khoi Nghia",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.777784981000115,
+            "longitude": 106.69749015188054
+        }
+    },
+    {
+        "id": 6,
+        "name": "Dry Martini",
+        "type": "classic",
+        "alcoholPercentage": 30,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "The classic Dry Martini recipe consists of gin and dry vermouth as the base ingredients, followed by an olive, which is customarily placed on top of a perfectly crafted Dry Martini. The Dry Martini has gained popularity over the decades and has become one of the most well-known mixed alcoholic drinks. It is a regular menu item in almost all restaurants, bars and diners. The flavors you can expect are a dry botanical taste.",
+        "ingredients": ["Gin","Dry Vermouth","Olive"],
+        "imageName": "dry-martini",
+        "address": {
+            "barName": "Drinking Healing Saigon Bar",
+            "barImage": "drinking-healing-saigon-bar",
+            "number": 25,
+            "street": "Ho Tung Mau",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.770660546996393,
+            "longitude": 106.70447072489438
+        }
+    },
+    {
+        "id": 7,
+        "name": "Expresso Martini",
+        "type": "classic",
+        "alcoholPercentage": 20.36,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "If you’re looking for a pick-me-up post-dinner, the Espresso Martini is here to jolt you awake with its boozy magical powers. The cocktail has been jumpstarting outings and extending nights ever since making its debut in the 1980s. The espresso is joined by coffee liqueur, usually Kahlúa, which adds another rich vein of coffee flavor to the cocktail. Shake everything together, and you get a caffeinated drink that is surprisingly balanced, with just the right ratio of booze, coffee and sugar. Garnish with a few coffee beans, and it’s picture-perfect. An authentic espresso martini carries out bitter notes from coffee beans combined with sweet notes from Kahlua liqueur followed by mild hints of vodka. Its complex flavors consist mainly of bitter/sweet concoction balanced for taste from fresh brewed quality beans.",
+        "ingredients": ["Vodka","Coffee Liqueur","Espresso","Simple Syrup"],
+        "imageName": "expresso-martini",
+        "address": {
+            "barName": "Soul-in Rooftop",
+            "barImage": "soul-in-rooftop",
+            "number": 149,
+            "street": "Doc Lap",
+            "district": "Tan Phu"
+        },
+        "coordinates": {
+            "latitude": 10.792858392310219,
+            "longitude": 106.62995831324994
+        }
+    },
+    {
+        "id": 8,
+        "name": "Gin & Tonic",
+        "type": "classic",
+        "alcoholPercentage": 15.5,
+        "rating": 5,
+        "isFavourite": false,
+        "description": "A gin and tonic is a highball cocktail made with gin and tonic water poured over a large amount of ice. The ratio of gin to tonic varies according to taste, strength of the gin, other drink mixers being added, etc., with most recipes calling for a ratio between 1:1 and 1:3. It is usually garnished with a slice or wedge of lime. To preserve effervescence, the tonic can be poured down a bar spoon. The ice cools the gin, dulling the effect of the alcohol in the mouth and making the drink more pleasant and refreshing to taste. A classic gin and tonic taste similar to a mojito but with a more robust flavor. It has a zesty taste with sweet undertones from the tonic water. All in all, it has a refreshing and light flavor and is a dinnertime favorite.",
+        "ingredients": ["Gin","Tonic Water","Lime"],
+        "imageName": "gin-and-tonic",
+        "address": {
+            "barName": "Chang Vang Rooftop",
+            "barImage": "chang-vang-rooftop",
+            "number": 72,
+            "street": "Bach Dang",
+            "district": "Binh Thanh"
+        },
+        "coordinates": {
+            "latitude": 10.804402509382196,
+            "longitude": 106.70907103902645
+        }
+    },
+    {
+        "id": 9,
+        "name": "Gin Fizz",
+        "type": "classic",
+        "alcoholPercentage": 13,
+        "rating": 3,
+        "isFavourite": false,
+        "description": "The fizz is a school of cocktail that features a spirit alongside citrus, sugar and sparkling water. If that sounds like a sour, plus soda, that’s because it is. Both drinks often contain egg white, too. The main flavor of gin comes from juniper berries, which have a sharp, piney taste. You may have heard someone say that gin tastes like a Christmas tree. The pronounced piney flavor is typical of a juniper-forward gin.",
+        "ingredients": ["Gin","Lemon Juice","Egg White","Soda","Simple Syrup"],
+        "imageName": "gin-fizz",
+        "address": {
+            "barName": "Cui Rooftop",
+            "barImage": "cui-rooftop",
+            "number": 204,
+            "street": "Vo Thanh Trang",
+            "district": "Tan Binh"
+        },
+        "coordinates": {
+            "latitude": 10.79081038924721,
+            "longitude": 106.64807626722317
+        }
+    },
+    {
+        "id": 10,
+        "name": "Hurricane",
+        "type": "classic",
+        "alcoholPercentage": 8.1,
+        "rating": 4,
+        "isFavourite": true,
+        "description": "The Hurricane is composed of two types of rum, lime juice, orange juice, passion fruit puree, grenadine and simple syrup. It’s sweet, fruity and boozy, so it contains all the hallmarks of a good party drink. Ingredients can vary depending on where you source your Hurricane, and it’s common to see the cocktail made with bottled mixers. Fresh citrus, quality passion fruit and homemade grenadine play an important role in balancing the cocktail and taming its sweetness. In contrast, a Hurricane is made with rum and the more globally popular mixer of fruit juice. Though a well-made Hurricane should have a nice balance of sour and sweet, many taste like snoball syrup. As a rule, Americans prefer sweet, straightforward drinks to dark and complicated ones.",
+        "ingredients": ["Light Rum","Dark Rum","Orange Juice","Passion Fruit", "Grenadine", "Simple Syrup"],
+        "imageName": "hurricane",
+        "address": {
+            "barName": "Iron Bank Bar",
+            "barImage": "iron-bank-bar",
+            "number": 47,
+            "street": "Ton That Dam",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.770491025160425,
+            "longitude": 106.70352799605874
+        }
+    },
+    {
+        "id": 11,
+        "name": "Mai Tai",
+        "type": "classic",
+        "alcoholPercentage": 25,
+        "rating": 5,
+        "isFavourite": true,
+        "description": "The mai tai is a delicious rum-based cocktail that has come to be synonymous with tiki culture. For almost a century, vacation-ready drinkers have enjoyed this Polynesian-inspired punch which blends aged rum, orange curaçao and orgeat. A classic Mai Tai is a tart and strong cocktail, with a prominent rum flavor and a bit of orange and lime flavor on the backend. It's not a particularly sweet cocktail, although you can change up the flavors a bit to your liking.",
+        "ingredients": ["White Rum","Dark Rum","orange curaçao","lime juice","orgeat"],
+        "imageName": "mai-tai",
+        "address": {
+            "barName": "Speakeasy Bar",
+            "barImage": "speakeasy-bar",
+            "number": 35,
+            "street": "Le Van Thiem",
+            "district": "7"
+        },
+        "coordinates": {
+            "latitude": 10.731121848795492,
+            "longitude": 106.7088418537297
+        }
+    },
+    {
+        "id": 12,
+        "name": "Manhattan",
+        "type": "classic",
+        "alcoholPercentage": 30,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "A Manhattan is a cocktail made with whiskey, sweet vermouth, and bitters. While rye is the traditional whiskey of choice, other commonly used whiskies include Canadian whisky, bourbon, blended whiskey, and Tennessee whiskey. The cocktail is usually stirred then strained into a cocktail glass and garnished traditionally with a maraschino cherry. A Manhattan may also be served on the rocks in a lowball glass.",
+        "ingredients": ["Whisky","Sweet Vermouth","Angostura bitters"],
+        "imageName": "manhattan",
+        "address": {
+            "barName": "Natrix Bar",
+            "barImage": "natrix-bar",
+            "number": 42,
+            "street": "Nam Ky Khoi Nghia",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.769751706900324,
+            "longitude": 106.70190626722301
+        }
+    },
+    {
+        "id": 13,
+        "name": "Margarita",
+        "type": "classic",
+        "alcoholPercentage": 18,
+        "rating": 2,
+        "isFavourite": false,
+        "description": "The Margarita is one of the most popular cocktails in North America—for good reason. Combining the tang of lime and the sweetness of orange liqueur with tequila's distinctive flavor profile, the classic Margarita remains one of the most recognizable and timeless examples of the sour category of cocktails (those that balance a spirit with acidic citrus juice and a sweetening element). What’s less certain, however, is the drink’s origin. Orange liqueur has long been one of the Margarita's signature ingredients. However, as variations on the classic formula have gained in popularity, what was once a mandatory ingredient is now considered optional by others.",
+        "ingredients": ["Tequila","Orange Liqueur","Lime Juice", "Agave Syrup"],
+        "imageName": "margarita",
+        "address": {
+            "barName": "Banana Mama Rooftop Bar",
+            "barImage": "banana-mama-rooftop",
+            "number": 102,
+            "street": "Cong Quynh",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.765243230072596,
+            "longitude": 106.69061079790822
+        }
+    },
+    {
+        "id": 14,
+        "name": "Moscow Mule",
+        "type": "classic",
+        "alcoholPercentage": 40,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "The Moscow Mule is a classic vodka-based cocktail that is popular for good reason: It’s delicious, refreshing and a snap to make. Just speaking the drink’s name conjures images of the ice-cold copper mug that is the de rigueur vessel for the Moscow Mule. The simple cocktail combines vodka with ginger beer and lime. It’s a no-tools-required drink that is built right in the mug. Of course, while said mug is always preferred for serving, it’s not essential and shouldn’t deter you from making a Moscow Mule. The drink tastes great no matter the receptacle. So if a highball glass or rocks glass is all you have on hand, don’t fret.",
+        "ingredients": ["Vodka","Ginger Beer","Lime Juice"],
+        "imageName": "moscow-mule",
+        "address": {
+            "barName": "Heli Hub Rooftop",
+            "barImage": "heli-hub-rooftop",
+            "number": 178,
+            "street": "Nguyen Van Cong",
+            "district": "Go Vap"
+        },
+        "coordinates": {
+            "latitude": 10.823468996972636,
+            "longitude": 106.6754775077027
+        }
+    },
+    {
+        "id": 15,
+        "name": "Old Fashioned",
+        "type": "classic",
+        "alcoholPercentage": 32,
+        "rating": 4,
+        "isFavourite": true,
+        "description": "Traditionally made with bourbon or rye whiskey, lightly sweetened with sugar and aromatised with bitters this most classic of vintage cocktails is served over ice in a heavy bottomed tumbler named after the drink and garnished with an orange zest twist. When you get right down to it, the Old Fashioned is little more than a slug of whiskey, seasoned and sweetened. Yet for all of its suave simplicity, the drink remains as relevant today as it was when it first captured drinkers’ hearts 200 years ago.",
+        "ingredients": ["Whisky","Angostura bitters","Water","Sugar"],
+        "imageName": "old-fashioned",
+        "address": {
+            "barName": "The Blinders Bar",
+            "barImage": "the-blinders-bar",
+            "number": 165,
+            "street": "Nguyen Thai Binh",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.76779070749367,
+            "longitude": 106.69878423838745
+        }
+    },
+    {
+        "id": 16,
+        "name": "Penicillin",
+        "type": "classic",
+        "alcoholPercentage": 18.99,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "The blended scotch, lemon and sweetened syrup create balance in the drink, similar to that which you’ll find in a Whiskey Sour. The Penicillin is sweet, tart, spicy and delicious, garnished with a welcome snack of candied ginger. But that topper of Islay scotch is the genius behind the cocktail, keeping the spirit’s smoky aromatics front and center with each sip. As such, Ross prefers to serve the drink without a straw—so you don’t miss a single note.",
+        "ingredients": ["Blended Scotch","Lemon Juice","Honey Syrup"],
+        "imageName": "penicillin",
+        "address": {
+            "barName": "Chang Vang Rooftop",
+            "barImage": "chang-vang-rooftop",
+            "number": 72,
+            "street": "Bach Dang",
+            "district": "Binh Thanh"
+        },
+        "coordinates": {
+            "latitude": 10.804402509382196,
+            "longitude": 106.70907103902645
+        }
+    },
+    {
+        "id": 17,
+        "name": "Pina Colada",
+        "type": "classic",
+        "alcoholPercentage": 13,
+        "rating": 5,
+        "isFavourite": false,
+        "description": "The Piña Colada has a bit of a bad rap among cocktail connoisseurs. For years, this now-classic drink was the poster child of the blender boom, a symbol of poolside bars and booze cruises. But the tropical cocktail—a mix of rum, coconut, pineapple and lime juices—dates to the 1950s and has been satisfying vacationers and Tiki aficionados since. This recipe follows that tack, silencing the blender blades and employing a nice, sturdy shake. This technique keeps the cocktail from becoming overly diluted, and serving it over pebble ice ensures a cold drink.",
+        "ingredients": ["Rum","Coconut Cream","Pineapple Juice","Lime Juice"],
+        "imageName": "pina-colada",
+        "address": {
+            "barName": "Library Pub Cocktail & Bar",
+            "barImage": "library-pub",
+            "number": 443,
+            "street": "Le Van Sy",
+            "district": "3"
+        },
+        "coordinates": {
+            "latitude": 10.788696833620468,
+            "longitude": 106.67437243014552
+        }
+    },
+    {
+        "id": 18,
+        "name": "Whisky Sour",
+        "type": "classic",
+        "alcoholPercentage": 14,
+        "rating": 5,
+        "isFavourite": true,
+        "description": "Spirit, citrus and sugar are the trinity that combine to form the classic sour, one of the oldest types of cocktails. One of the most popular members of this group, the Whiskey Sour, has sated thirsty drinkers for more than one and a half centuries. The Whiskey Sour was traditionally made with whiskey, lemon juice, sugar and egg white, an ingredient that tames the tart flavor and creates a richer, smoother texture. Today the egg is optional, and it’s often more common to find bars serving Whiskey Sours without egg white. But if you want to taste the original incarnation of the drink, and put a little protein in your system, give it a try.",
+        "ingredients": ["Whisky","Lemon Juice","Simple Syrup","Egg White"],
+        "imageName": "whisky-sour",
+        "address": {
+            "barName": "Rabbit Hole Bar",
+            "barImage": "rabbit-hole-bar",
+            "number": 138,
+            "street": "Nam Ky Khoi Nghia",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.777784981000115,
+            "longitude": 106.69749015188054
+        }
+    },
+    {
+        "id": 19,
+        "name": "Tequila Sunrise",
+        "type": "classic",
+        "alcoholPercentage": 13,
+        "rating": 3,
+        "isFavourite": false,
+        "description": "The Tequila Sunrise cocktail, with its bright striations of color, evokes a summer sunrise. This classic drink has only three ingredients—tequila, grenadine, and orange juice—and is served unmixed to preserve the color of each layer. It’s sweet, refreshing, and delicious, so mix one whenever the mood strikes.",
+        "ingredients": ["Tequila","Orange Juice","Grenadine","Cherry"],
+        "imageName": "tequila-sunrise",
+        "address": {
+            "barName": "U Bar",
+            "barImage": "u-bar",
+            "number": 50,
+            "street": "Dang Dung",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.792933610674435,
+            "longitude": 106.68885201179562
+        }
+    },
+    {
+        "id": 20,
+        "name": "Long Island Iced Tea",
+        "type": "classic",
+        "alcoholPercentage": 22,
+        "rating": 3,
+        "isFavourite": false,
+        "description": "The Long Island iced tea, or Long Island ice tea, is an IBA official cocktail, typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola. Despite its name, the cocktail does not typically contain iced tea, but is named for having the same amber hue as iced tea. The cocktail's flavor has been described as bright and refreshing. It is easy to drink, making it dangerously boozy",
+        "ingredients": ["Vodka","Tequila","Rum","Triple Gec", "Gin","Cola"],
+        "imageName": "long-island-iced-tea",
+        "address": {
+            "barName": "Carmen Bar",
+            "barImage": "carmen-bar",
+            "number": 8,
+            "street": "Ly Tu Trong",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.782533619998583,
+            "longitude": 106.70479479790832
+        }
+    },
+    {
+        "id": 21,
+        "name": "Black Berry Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 8,
+        "rating": 4,
+        "isFavourite": true,
+        "description": "A classic refreshing mojito made with fresh muddled blackberries, mint, lime juice, and sugar.",
+        "ingredients": ["Rum","Blackberry","Raspberry","Lime Juice","Mint Leaves", "Soda Water"],
+        "imageName": "blackberry-mojito",
+        "address": {
+            "barName": "Carmen Bar",
+            "barImage": "carmen-bar",
+            "number": 8,
+            "street": "Ly Tu Trong",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.782533619998583,
+            "longitude": 106.70479479790832
+        }
+    },
+    {
+        "id": 22,
+        "name": "Coconut Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 13,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "This refreshing Coconut Mojito is made with fresh cooling mint, coconut rum, coconut cream and club soda. A delicious, fruity and tropical cocktail for summer!",
+        "ingredients": ["Coconut Rum","Coconut Cream","Lime Juice","Fresh Mint", "Flaked Coconut", "Club Soda"],
+        "imageName": "coconut-mojito",
+        "address": {
+            "barName": "The Blinders Bar",
+            "barImage": "the-blinders-bar",
+            "number": 165,
+            "street": "Nguyen Thai Binh",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.76779070749367,
+            "longitude": 106.69878423838745
+        }
+    },
+    {
+        "id": 23,
+        "name": "Mango Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 12,
+        "rating": 5,
+        "isFavourite": false,
+        "description": "This mango mojito is the perfect combination of rum, mint, and sweet mango nectar. This drink is perfect for sipping by the pool and dreaming of warm weather.",
+        "ingredients": ["Rum","Mango Nectar","Lime Juice","Sugar","Fresh Mint","Club Soda"],
+        "imageName": "mango-mojito",
+        "address": {
+            "barName": "Cui Rooftop",
+            "barImage": "cui-rooftop",
+            "number": 204,
+            "street": "Vo Thanh Trang",
+            "district": "Tan Binh"
+        },
+        "coordinates": {
+            "latitude": 10.79081038924721,
+            "longitude": 106.64807626722317
+        }
+    },
+    {
+        "id": 24,
+        "name": "Mint Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 12.8,
+        "rating": 5,
+        "isFavourite": false,
+        "description": "Another fruity drink if you're in the mood for a fun summer drink. This Mint Mojito is just what you need! It's refreshing, delicious, and super easy to make.",
+        "ingredients": ["White Rum","Fresh Mint","Lime Juice","Simple Syrup","Club Soda"],
+        "imageName": "mint-mojito",
+        "address": {
+            "barName": "Drinking Healing Saigon Bar",
+            "barImage": "drinking-healing-saigon-bar",
+            "number": 25,
+            "street": "Ho Tung Mau",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.770660546996393,
+            "longitude": 106.70447072489438
+        }
+    },
+    {
+        "id": 25,
+        "name": "Raspberry Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 12,
+        "rating": 5,
+        "isFavourite": true,
+        "description": "Blend fresh raspberries with lime, mint, sugar, white rum and sparkling water to make a punchy raspberry mojito that's perfect for summer parties",
+        "ingredients": ["White Rum","Raspberries","Lime","Sugar","Spearmint Sprigs"],
+        "imageName": "raspberry-mojito",
+        "address": {
+            "barName": "Banana Mama Rooftop Bar",
+            "barImage": "banana-mama-rooftop",
+            "number": 102,
+            "street": "Cong Quynh",
+            "district": "1"
+        },
+        "coordinates": {
+            "latitude": 10.765243230072596,
+            "longitude": 106.69061079790822
+        }
+    },
+    {
+        "id": 26,
+        "name": "Strawberry Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 12,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "This strawberry mojito cocktail recipe is perfect when you have sweet seasonal strawberries. When it’s hot outside, this strawberry mojito recipe is also perfect. It’s refreshing, perfectly sweet, fruity and fragrant of the season.",
+        "ingredients": ["Light Rum","Strawberries","Spearmint Sprigs","Lime Juice","Soda Water","Simple Syrup"],
+        "imageName": "strawberry-mojito",
+        "address": {
+            "barName": "Thuong Rooftop",
+            "barImage": "thuong-rooftop",
+            "number": 258,
+            "street": "Ton Dan",
+            "district": "4"
+        },
+        "coordinates": {
+            "latitude": 10.757013074620343,
+            "longitude": 106.70612508256559
+        }
+    },
+    {
+        "id": 27,
+        "name": "Sunrise Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 0,
+        "rating": 5,
+        "isFavourite": false,
+        "description": "A cool drink to beat the heat",
+        "ingredients": ["Orange Marmalade","Club Soda","Rose Syrup","Lemon","Lime Juice","Fresh Mint Leaves"],
+        "imageName": "sunrise-mojito",
+        "address": {
+            "barName": "Heli Hub Rooftop",
+            "barImage": "heli-hub-rooftop",
+            "number": 178,
+            "street": "Nguyen Van Cong",
+            "district": "Go Vap"
+        },
+        "coordinates": {
+            "latitude": 10.823468996972636,
+            "longitude": 106.6754775077027
+        }
+    },
+    {
+        "id": 28,
+        "name": "Watermelon Mojito",
+        "type": "mojito",
+        "alcoholPercentage": 8,
+        "rating": 4,
+        "isFavourite": false,
+        "description": "Muddle watermelon chunks with the lime juice and sugar in a glass. Stir in mint leaves, then add white rum and ice. Top with ginger ale; garnish with more mint.",
+        "ingredients": ["Light Rum","Fresh Mint","Watermelons","Sugar","Lime Juice"],
+        "imageName": "watermelon-mojito",
+        "address": {
+            "barName": "Soul-in Rooftop",
+            "barImage": "soul-in-rooftop",
+            "number": 149,
+            "street": "Doc Lap",
+            "district": "Tan Phu"
+        },
+        "coordinates": {
+            "latitude": 10.792858392310219,
+            "longitude": 106.62995831324994
+        }
+    }
+]
